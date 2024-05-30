@@ -1,6 +1,6 @@
 # Efficient Diffusion Models
 
-Collection of papers on diffusion model acceleration and compression. The mainly methods I've seen now contains:
+Collection of papers on diffusion model acceleration and compression. The mainly methods I've seen now contains (continuous updates):
 - Change architecture (e.g. prunning, relocate the position of transformers)
 - Knowledge distillation (KD)  
 
