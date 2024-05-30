@@ -4,7 +4,7 @@ Collection of papers on diffusion model acceleration and compression. The mainly
 - Change architecture (e.g. prunning, relocate the position of transformers)
 - Knowledge distillation (KD)  
 
-Paper reading notes are stored [here](https://viridisgreen.notion.site/Efficient-Diffusion-c49b108362054e4a9b2d0ca296313bee?pvs=4)
+Paper reading notes are available [here](https://viridisgreen.notion.site/Efficient-Diffusion-c49b108362054e4a9b2d0ca296313bee?pvs=4)
 
 ## Papers
 - 2023-NIPS-[SnapFusion: Text-to-Image Diffusion Model on Mobile Devices within Two Seconds](https://arxiv.org/abs/2306.00980)
